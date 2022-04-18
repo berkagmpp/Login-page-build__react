@@ -16,7 +16,7 @@
 - Enter the email address including @, and password with at least 6 characters, and click the Login button.
 - If the conditions are not met, or empty, the input field is focused in order(email -> password) and the cursor is positioned.
 - Check the input value in units of typing stops for more than 0.5 seconds to check if it is valid.
-- Log out of Home and MainHeader after successful login by AuthContext Provider. 
+- Log-out at Home and MainHeader after successful login by AuthContext Provider. 
 
 ### Preview
 <a href="#"><img src="https://user-images.githubusercontent.com/84049077/163752288-e2f95138-552d-47d6-ba54-4943f370ecf3.gif"/></a>
